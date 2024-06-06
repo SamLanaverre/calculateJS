@@ -1,0 +1,54 @@
+header {
+    text-align: center;
+    padding: 70px;
+}
+
+body {
+    color: #234B68;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 1em;
+    border: solid;
+    border-radius: 10px;
+    border-color: black;
+}
+
+
+.calculatrice {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center ;
+}
+
+
+.tableau {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+
+}
+
+.container {
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+
+.bouton {
+    height: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+.bouton_calculer {
+    width: 10em;
+    }
