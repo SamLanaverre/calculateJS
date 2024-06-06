@@ -38,17 +38,30 @@ main {
 
 .container {
     display: flex;
-    align-content: center;
-    align-items: center;
+    margin: 8px;
+
 }
 
+.valeursinsert {
+    color: white;
+    background-color: #234B68;
+    /* width: 100px; */
+}
 .bouton {
     height: 140px;
     display: flex;
     align-items: center;
     justify-content: center;
+
     }
     
 .bouton_calculer {
-    width: 10em;
+    /* width: 10em; */
     }
+button {
+    color: white;
+    background-color: #234B68;
+    width: 200px;
+    height: 44px;
+    border-radius: 10px;
+}
